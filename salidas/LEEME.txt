@@ -1,0 +1,1 @@
+Aquí se guardan las figuras, el log de Stata y el código QR.
